@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url:"jdbc:mysql://localhost:3306/documents"
+    username:"root"
+    password:deepakshukla0507
+#  jpa:
+#    hibernate:
+#      ddl-auto:"create"
+#    show-sql:"true"
+#    properties:
+#      hibernate:
+#        formate_sql:"true"
